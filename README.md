@@ -9,5 +9,4 @@ Features:
 - Edit Task
 - Delete Task
 - Update Status
-
-- <img width="899" height="467" alt="image" src="https://github.com/user-attachments/assets/fdf1ac3c-971f-47ba-a33b-1a5bbd415563" />
+<img width="955" height="507" alt="image" src="https://github.com/user-attachments/assets/4a970e82-1a33-4a38-aee9-0421d29f3931" />
